@@ -21,6 +21,14 @@ This project aims to:
 - Evaluate payment method and channel preferences
 - Provide data-driven business recommendations
 
+##  Data Source & Workflow
+
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection). 
+
+To simulate a real-world data pipeline, the raw CSV data was first imported into a PostgreSQL database. The analysis environment (Python) was then connected to PostgreSQL using `psycopg2` to extract the data for preprocessing and analysis.
+
+This approach replicates a practical business scenario where data is stored in relational databases rather than directly accessed from flat files.
+
 ---
 
 ## Key Analysis Areas
@@ -40,6 +48,7 @@ This project aims to:
 - Python
 - Pandas
 - NumPy
+- psycopg2
 
 ### Data Visualization
 - Matplotlib
