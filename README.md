@@ -21,6 +21,8 @@ This project aims to:
 - Evaluate payment method and channel preferences
 - Provide data-driven business recommendations
 
+---
+
 ##  Data Source & Workflow
 
 The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection). 
