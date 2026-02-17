@@ -95,5 +95,5 @@ https://public.tableau.com/app/profile/julius.william1751/viz/Transaction_Analys
 ##  Author
 
 Julius William  
-- LinkedIn: https://www.linkedin.com/in/your-link
-- Email: your.email@email.com
+- LinkedIn: https://www.linkedin.com/in/julius-william-527000374/
+- Email: wim.suryawan@gmail.com
